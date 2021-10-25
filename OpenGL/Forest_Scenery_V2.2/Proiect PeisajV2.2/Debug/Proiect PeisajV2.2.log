@@ -1,0 +1,4 @@
+﻿  peisaj.cpp
+d:\facultate\anul iii\semestrul i\grafica avansata\proiect\incepere proiect\proiect peisajv2.2\proiect peisajv2.2\peisaj.cpp(66): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Proiect PeisajV2.2.vcxproj -> D:\FACULTATE\Anul III\Semestrul I\Grafica avansata\Proiect\Incepere Proiect\Proiect PeisajV2.2\Debug\Proiect PeisajV2.2.exe
+  Proiect PeisajV2.2.vcxproj -> D:\FACULTATE\Anul III\Semestrul I\Grafica avansata\Proiect\Incepere Proiect\Proiect PeisajV2.2\Debug\Proiect PeisajV2.2.pdb (Full PDB)

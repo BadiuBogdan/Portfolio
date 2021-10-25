@@ -1,0 +1,10 @@
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\bin\Debug\Chat.exe
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\bin\Debug\Chat.pdb
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\obj\Debug\Chat.Form1.resources
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\obj\Debug\Chat.exe
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Chat\Chat\obj\Debug\Chat.pdb

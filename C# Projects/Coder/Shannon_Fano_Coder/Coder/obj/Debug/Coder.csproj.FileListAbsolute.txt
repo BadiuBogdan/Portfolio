@@ -1,0 +1,20 @@
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\bin\Debug\Coder.exe.config
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\bin\Debug\Coder.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\bin\Debug\Coder.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\obj\Debug\Coder.csprojAssemblyReference.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\obj\Debug\Coder.Properties.Resources.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\obj\Debug\Coder.csproj.GenerateResource.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\obj\Debug\Coder.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\obj\Debug\Coder.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\obj\Debug\Coder.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2\Coder\Coder\obj\Debug\Coder.fCoder.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\obj\Debug\Coder.csprojAssemblyReference.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\obj\Debug\Coder.Properties.Resources.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\obj\Debug\Coder.csproj.GenerateResource.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\obj\Debug\Coder.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\bin\Debug\Shannon Fano Coder.exe.config
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\bin\Debug\Shannon Fano Coder.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\bin\Debug\Shannon Fano Coder.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\obj\Debug\Coder.fCoderSF.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\obj\Debug\Shannon Fano Coder.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator2_SF\Coder\Coder\obj\Debug\Shannon Fano Coder.pdb

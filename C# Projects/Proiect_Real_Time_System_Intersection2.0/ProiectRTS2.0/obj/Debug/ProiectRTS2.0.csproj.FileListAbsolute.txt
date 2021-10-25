@@ -1,0 +1,10 @@
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\bin\Debug\ProiectRTS2.0.exe.config
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\bin\Debug\ProiectRTS2.0.exe
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\bin\Debug\ProiectRTS2.0.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\obj\Debug\ProiectRTS2.0.csprojAssemblyReference.cache
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\obj\Debug\ProiectRTS2._0.fPrincipal.resources
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\obj\Debug\ProiectRTS2._0.Properties.Resources.resources
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\obj\Debug\ProiectRTS2.0.csproj.GenerateResource.cache
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\obj\Debug\ProiectRTS2.0.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\obj\Debug\ProiectRTS2.0.exe
+D:\FACULTATE\Anul IV\Semestrul I\Sisteme Multimedia in Timp Real\Proiect\ProiectRTS2.0\ProiectRTS2.0\obj\Debug\ProiectRTS2.0.pdb

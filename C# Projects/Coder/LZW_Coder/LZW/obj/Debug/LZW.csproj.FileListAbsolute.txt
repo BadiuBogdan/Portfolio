@@ -1,0 +1,10 @@
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\bin\Debug\LZW.exe.config
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\bin\Debug\LZW.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\bin\Debug\LZW.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\obj\Debug\LZW.csprojAssemblyReference.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\obj\Debug\LZW.Properties.Resources.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\obj\Debug\LZW.csproj.GenerateResource.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\obj\Debug\LZW.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\obj\Debug\LZW.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\obj\Debug\LZW.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator4_LZW\LZW\LZW\obj\Debug\LZW.fLZW.resources

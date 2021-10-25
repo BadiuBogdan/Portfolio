@@ -1,0 +1,14 @@
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Server\Server\bin\Debug\Server.exe.config
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Server\Server\bin\Debug\Server.exe
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Server\Server\bin\Debug\Server.pdb
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Server\Server\obj\Debug\Server.exe
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Server\Server\obj\Debug\Server.pdb
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Server\Server\bin\Debug\Server.exe.config
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Server\Server\bin\Debug\Server.exe
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Server\Server\bin\Debug\Server.pdb
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Server\Server\obj\Debug\Server.exe
+D:\Facultate\Anul IV Semestrul II\Modelarea Aplicatiilor Software\Laborator\ClientServerLab3\Chat\Server\Server\obj\Debug\Server.pdb

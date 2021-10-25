@@ -1,0 +1,12 @@
+Try the keys:
+- UP
+- DOWN
+- LEFT
+- RIGTH
+- A
+- S
+- D
+- W
+- P
+- O
+- R

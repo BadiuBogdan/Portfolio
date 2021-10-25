@@ -1,0 +1,10 @@
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\obj\Debug\Coder_LZ77.csprojAssemblyReference.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\obj\Debug\Coder_LZ77.Properties.Resources.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\obj\Debug\Coder_LZ77.csproj.GenerateResource.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\obj\Debug\Coder_LZ77.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\obj\Debug\Coder_LZ77.fCoderLZ77.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\bin\Debug\LZ77 Coder.exe.config
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\bin\Debug\LZ77 Coder.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\bin\Debug\LZ77 Coder.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\obj\Debug\LZ77 Coder.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator3_LZ77\Coder_LZ77\Coder_LZ77\obj\Debug\LZ77 Coder.pdb

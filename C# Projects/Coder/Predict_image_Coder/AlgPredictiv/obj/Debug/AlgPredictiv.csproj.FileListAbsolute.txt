@@ -1,0 +1,11 @@
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\bin\Debug\AlgPredictiv.exe.config
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\bin\Debug\AlgPredictiv.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\bin\Debug\AlgPredictiv.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\obj\Debug\AlgPredictiv.csprojAssemblyReference.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\obj\Debug\AlgPredictiv.Properties.Resources.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\obj\Debug\AlgPredictiv.csproj.GenerateResource.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\obj\Debug\AlgPredictiv.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\obj\Debug\AlgPredictiv.exe
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\obj\Debug\AlgPredictiv.pdb
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\obj\Debug\AlgPredictiv.fPrincipala.resources
+D:\FACULTATE\Anul IV\Semestrul I\Codare Audio Video\Laborator\Laborator Predictiv\AlgPredictiv\AlgPredictiv\obj\Debug\AlgPredictiv.formHistogram.resources
